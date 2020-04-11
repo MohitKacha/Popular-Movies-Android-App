@@ -17,3 +17,11 @@
 - [Glide](https://github.com/bumptech/glide)  
 - [OkHttp](https://github.com/square/okhttp)
 -  [Gson](https://github.com/google/gson)
+
+
+## Change API Key
+
+You will have to add your Api key [here]([https://github.com/MohitKacha/Popular-Movies-Stage1/blob/master/app/src/main/java/android/mohit/popularmovie/utils/Constant.java](https://github.com/MohitKacha/Popular-Movies-Stage1/blob/master/app/src/main/java/android/mohit/popularmovie/utils/Constant.java))
+
+    public static final String API_KEY = "[Add Api Key Here";
+
